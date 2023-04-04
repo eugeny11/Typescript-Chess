@@ -8,4 +8,4 @@ Open your terminal and then type. $ git clone {the url to the GitHub repo} This 
 cd into the new folder and type. $ npm install. This installs the required dependencies.
 To run the React project. $ npm start.
 
-![Chess](https://github.com/eugeny11/Typescript-Chess/raw/main/src/img/image.png)
+![Chess](https://github.com/eugeny11/Typescript-Chess/blob/main/img/1.jpg)
